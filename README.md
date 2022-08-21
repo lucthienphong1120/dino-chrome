@@ -1,6 +1,6 @@
-# dino-run
+# Dino-run
 
-Emulate the chrome dino game by 1:1 with colorful
+Emulate the Chrome Dino game by 1:1 with colorful
 
 ## Screenshot
 
